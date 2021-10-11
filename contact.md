@@ -3,7 +3,9 @@ permalink: /contact.html
 title: Contact
 ---
 
-## [Home](/index.html)
+<nav>
+[Home](/index.html)
+</nav>
 
 # Places you can find me:
 

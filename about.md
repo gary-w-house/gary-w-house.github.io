@@ -3,7 +3,9 @@ permalink: /about.html
 title: About
 ---
 
-## [Home](/index.html)
+<nav>
+[Home](/index.html)
+</nav>
 
 # Who
 

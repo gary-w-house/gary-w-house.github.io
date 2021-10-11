@@ -3,7 +3,9 @@ permalink: /index.html
 title: Gary W House
 ---
 
-## [About](/about.html) | [Contact](/contact.html)
+<nav>
+[About](/about.html) | [Contact](/contact.html)
+</nav>
 
 # Most Recent Posts
 
