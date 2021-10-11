@@ -4,7 +4,7 @@ title: Gary W House
 ---
 
 <nav>
-  <a href=/about.html">About</a> | <a href="/contact.html">Contact</a>
+  <a href="/about.html">About</a> | <a href="/contact.html">Contact</a>
 </nav>
 
 # Most Recent Posts
