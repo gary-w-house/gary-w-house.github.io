@@ -7,7 +7,7 @@ title: Gary W House
 
 I try to act as it if it is my fault until proven otherwise.
 
-# Posts
+# Most Recent Posts
 
 <ul class="entries">
   {% for post in site.posts limit:5 %}
