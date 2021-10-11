@@ -4,7 +4,9 @@ title: Gary W House
 ---
 
 <nav>
+
 [About](/about.html) | [Contact](/contact.html)
+
 </nav>
 
 # Most Recent Posts

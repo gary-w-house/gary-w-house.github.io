@@ -4,7 +4,9 @@ title: About
 ---
 
 <nav>
+
 [Home](/index.html)
+
 </nav>
 
 # Who

@@ -4,7 +4,9 @@ title: Contact
 ---
 
 <nav>
+
 [Home](/index.html)
+
 </nav>
 
 # Places you can find me:
