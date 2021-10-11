@@ -1,1 +1,7 @@
+#Jekyll configurations
+name: "Gary W House"
+description: "It's just me..."
+url: "https://gary-w-house.github.io"
 theme: jekyll-theme-cayman
+markdown: kramdown
+highlighter: rouge
