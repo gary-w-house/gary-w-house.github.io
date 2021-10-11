@@ -2,5 +2,3 @@
 name: "Gary W House"
 description: "It's just me..."
 theme: jekyll-theme-cayman
-markdown: kramdown
-highlighter: rouge
