@@ -5,8 +5,6 @@ title: Gary W House
 
 ## [About](/about.html) | [Contact](/contact.html)
 
-I try to act as it if it is my fault until proven otherwise.
-
 # Most Recent Posts
 
 <ul class="entries">
