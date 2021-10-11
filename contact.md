@@ -3,6 +3,8 @@ permalink: /contact.html
 title: Contact
 ---
 
+## [Home](/index.html)
+
 # Places you can find me:
 
 [GitHub](https://github.com/gary-w-house/)

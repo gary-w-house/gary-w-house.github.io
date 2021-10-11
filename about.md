@@ -3,6 +3,8 @@ permalink: /about.html
 title: About
 ---
 
+## [Home](/index.html)
+
 # Who
 
 Gary W House
